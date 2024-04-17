@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Awesome Solidity Gas-Optimization ⛽</h1>
+  <h1 align="center">Solidity Gas-Optimization ⛽</h1>
   <h6 align="center">(Inspired from this issue https://github.com/iskanderandrews/troubleshooting/issues/38)</h6>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
